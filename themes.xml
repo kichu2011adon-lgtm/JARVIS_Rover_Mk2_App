@@ -1,0 +1,7 @@
+<resources>
+<style name="Theme.JARVIS" parent="android:style/Theme.Material.NoActionBar">
+    <item name="android:fontFamily">sans</item><item name="android:colorAccent">#29c7f2</item>
+    <item name="android:navigationBarColor">#05080c</item><item name="android:statusBarColor">#05080c</item>
+    <item name="android:windowLightStatusBar">false</item>
+</style>
+</resources>
